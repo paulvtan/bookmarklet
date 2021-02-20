@@ -29,3 +29,6 @@ View the literal current page source code.
 
 ## 8. w3c-validate.js
 Validate the current page against w3c standard.
+
+## 9. bypass-simply-wall-st
+This removes Simply Wall St. paywall (Viewing specific stock screen).
